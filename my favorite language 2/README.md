@@ -7,6 +7,10 @@
 
 - [bar.lazy](attachments/bar.lazy)
 
+## Solution
+
+- (en) [harekaze-ctf-2018/my-favorite-language at master · kmyk/harekaze-ctf-2018](https://github.com/kmyk/harekaze-ctf-2018/tree/master/my-favorite-language#solution-for-2)
+
 ## Flag
 
 ```

@@ -6,6 +6,10 @@
 
 file: [flea_attack](attachments/flea_attack.elf)
 
+## Solution
+
+- [ctfs/2018/harekazectf/flea_attack/exploit at master · megumish/ctfs](https://github.com/megumish/ctfs/tree/master/2018/harekazectf/flea_attack/exploit)
+
 ## Flag
 
 ```

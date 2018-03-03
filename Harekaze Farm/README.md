@@ -8,6 +8,10 @@ In Harekaze Farm, some animas is living. Let's find them!
 
 file: [harekaze_farm](attachments/harekaze_farm)
 
+## Solution
+
+- [ctfs/exploit.py at master · megumish/ctfs](https://github.com/megumish/ctfs/blob/master/2018/harekazectf/harekaze_farm/exploit.py)
+
 ## Flag
 
 ```

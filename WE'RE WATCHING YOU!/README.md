@@ -10,6 +10,10 @@ en : You have been asked to investigate the criminal community in Darkweb: Japan
 
 hint : Admin's mistake is not only web server.
 
+## Solution
+
+- (en) [WE'RE WATCHING YOU! solution](https://gist.github.com/ak1t0/506ec0ce7913aa080e8198c0c904939a)
+
 ## Flag
 
 ```

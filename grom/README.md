@@ -10,6 +10,10 @@ Let's play on the beach.
 
 Hint: Make waves!
 
+## Solution
+
+- (en) [HarekazeCTF2018 writeup - exits](http://yuelab82.hatenablog.com/entry/harekazectf2018_writeup)
+
 ## Flag
 
 ```

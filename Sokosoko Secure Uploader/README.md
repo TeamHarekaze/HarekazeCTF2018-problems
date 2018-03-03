@@ -13,6 +13,10 @@ I encrypted my file by using [this service](server/). Attachment is the encrypte
 - [flag.png.encrypted](attachments/flag.png.encrypted)
 - [src.zip](attachments/src.zip)
 
+## Solution
+
+- (jp) [Harekaze CTF 2018 で出題した問題 (Obfuscated Password Checker, Sokosoko Secure Uploader, 15 Puzzle, Logger) の解説 - st98 の日記帳](https://st98.github.io/diary/posts/2018-02-23-harekaze-ctf-2018.html#web-100-sokosoko-secure-uploader)
+
 ## Flag
 
 ```

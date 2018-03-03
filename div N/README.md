@@ -28,6 +28,10 @@ Disassembly of section .text:
 $ echo "HarekazeCTF{$N}" > /dev/null
 ```
 
+## Solution
+
+- (en) [harekaze-ctf-2018/div-n at master · kmyk/harekaze-ctf-2018](https://github.com/kmyk/harekaze-ctf-2018/tree/master/div-n)
+
 ## Flag
 
 ```

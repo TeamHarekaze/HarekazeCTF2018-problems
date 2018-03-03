@@ -6,6 +6,10 @@ Let's decorate with fashionable CSS in [this site](http://problem.harekaze.com:1
 
 **Don't DOS Attack.**
 
+## Solution
+
+- (en/jp) [HarekazeCTF2018 Web250 : A custom css for the flag · 電子雪原ちほー](http://blog.esora.xyz/HarekazeCTF2018-CSS)
+
 ## Flag
 
 ```

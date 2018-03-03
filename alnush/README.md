@@ -8,6 +8,10 @@ This is a shellcode service.
 
 - [alnush](attachments/alnush)
 
+## Solution
+
+- [writeups/exploit.py at master · hnoson/writeups](https://github.com/hnoson/writeups/blob/master/harekazectf/2018/alnush/exploit.py)
+
 ## Flag
 
 ```

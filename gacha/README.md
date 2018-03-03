@@ -8,6 +8,10 @@
 - `nc problem.harekaze.com 30214`
 - [problem.py](attachments/problem.py)
 
+## Solution
+
+- (en) [harekaze-ctf-2018/gacha at master · kmyk/harekaze-ctf-2018](https://github.com/kmyk/harekaze-ctf-2018/tree/master/gacha#solution-for-1)
+
 ## Flag
 
 ```
